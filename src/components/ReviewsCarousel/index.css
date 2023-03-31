@@ -15,7 +15,7 @@
 }
 
 .profile-image {
-  width: 15%;
+  width: 10%;
 }
 
 .arrow-card {
@@ -76,7 +76,9 @@
   .review-heading {
     font-size: 30px;
   }
-
+  .profile-image {
+    width: 15%;
+  }
   .arrow-card {
     width: 60%;
   }
